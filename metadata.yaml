@@ -1,0 +1,33 @@
+_repo: The-Purcell-Papers---Volume-1_509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, Joseph Sheridan Le
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, English'
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Memoir of Joseph Sheridan Le Fanu -- The ghost and the bone-setter
+  -- The fortunes of Sir Robert Ardagh -- The last heir of Castle Connor -- The drunkard's
+  dream.
+title: The Purcell Papers — Volume 1
+url: http://www.gutenberg.org/ebooks/509
